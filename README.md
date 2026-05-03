@@ -1,4 +1,4 @@
-📊 Overview
+##📊 Overview
 
 This project analyzes retail sales data to uncover insights related to profitability, discount strategies, and customer value.
 
