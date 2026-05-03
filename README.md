@@ -8,14 +8,21 @@ The company is experiencing inconsistent profitability across products and regio
 
 🔍 Key Questions
 Which products are causing losses?
+
 How do discounts impact profit?
+
 Which customers generate the most value?
+
 Which regions perform best?
 
 🛠 Tools Used
+
 Python
+
 Pandas
+
 Matplotlib
+
 Seaborn
 
 📈 Key Insights
