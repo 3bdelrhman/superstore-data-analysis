@@ -7,13 +7,10 @@ This project analyzes retail sales data to uncover insights related to profitabi
 The company is experiencing inconsistent profitability across products and regions.
 
 🔍 Key Questions
-Which products are causing losses?
-
-How do discounts impact profit?
-
-Which customers generate the most value?
-
-Which regions perform best?
+- Which products are causing losses?
+- How do discounts impact profit?
+- Which customers generate the most value?
+- Which regions perform best?
 
 🛠 Tools Used
 
